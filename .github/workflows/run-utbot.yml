@@ -13,5 +13,5 @@ jobs:
       with:
         add_tests: 'true'
         refresh_tests: 'true'
-        utbot_version: '2022.7.2'
+        utbot_version: '2022.7.3'
         scope: 'project'
