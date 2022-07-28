@@ -14,5 +14,6 @@ jobs:
         add_tests: 'true'
         refresh_tests: 'true'
         utbot_version: '2022.7.3'
-        scope: 'file'
-        path: 'src/main.c'
+        scope: 'project'
+#         scope: 'file'
+#         path: 'src/main.c'
