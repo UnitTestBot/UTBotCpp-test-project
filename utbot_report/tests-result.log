@@ -1,0 +1,37 @@
+Test results summary.
+==== Tests in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/tests/src/main_dot_c_test.cpp"
+======== main_test_14 -> PASSED
+======== main_test_1 -> FAILED
+======== main_test_2 -> FAILED
+======== main_test_5 -> FAILED
+======== main_test_3 -> FAILED
+======== main_test_10 -> PASSED
+======== main_test_4 -> FAILED
+======== main_test_8 -> PASSED
+======== main_test_6 -> FAILED
+======== main_test_9 -> FAILED
+======== main_test_12 -> PASSED
+======== main_test_7 -> PASSED
+======== main_test_13 -> PASSED
+======== main_test_11 -> PASSED
+==== Tests in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/tests/lib/libfunc_dot_c_test.cpp"
+======== libfunc_test_2 -> DEATH
+======== libfunc_test_1 -> PASSED
+Coverage summary.
+==== Coverage in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/tests/wrapper/lib/libfunc_wrapper.c"
+======== covered lines: 6 7 8 
+======== uncovered line ranges: 
+==== Coverage in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/lib/libfunc.c"
+======== covered lines: 2 3 4 
+======== uncovered line ranges: 
+==== Coverage in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/utbot-release-2022.10.4/utbot_distr/debs-install/usr/include/x86_64-linux-gnu/bits/uintn-identity.h"
+======== covered lines: 
+======== uncovered line ranges: 33 34 35 39 40 41 45 46 47 
+==== Coverage in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/tests/wrapper/src/main_wrapper.c"
+======== covered lines: 4 6 7 8 
+======== uncovered line ranges: 
+==== Coverage in "/home/runner/work/UTBotCpp-test-project/UTBotCpp-test-project/src/main.c"
+======== covered lines: 3 4 5 6 7 8 9 10 11 12 
+======== uncovered line ranges: 
+Totals:
+{"functions":{"count":2,"covered":2,"percent":100},"instantiations":{"count":2,"covered":2,"percent":100},"lines":{"count":13,"covered":13,"percent":100},"regions":{"count":7,"covered":7,"notcovered":0,"percent":100}}
